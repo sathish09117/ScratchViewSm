@@ -1,6 +1,6 @@
 <resources>
 
-    <color name="scratch_start_gradient">#e5e5e5</color>
-    <color name="scratch_end_gradient">#cccccc</color>
+    <string name="scratch_start_gradient">#e5e5e5</string>
+    <string name="scratch_end_gradient">#cccccc</string>
 
 </resources>
